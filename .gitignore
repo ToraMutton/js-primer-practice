@@ -1,0 +1,18 @@
+# 依存ライブラリ
+node_modules/
+
+# ビルド成果物
+dist/
+build/
+
+# ログファイル
+*.log
+npm-debug.log*
+
+# 環境変数（秘密の情報）
+.env
+.env.local
+
+# OS特有のキャッシュファイル
+.DS_Store
+Thumbs.db
